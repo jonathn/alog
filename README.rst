@@ -141,7 +141,7 @@ What you got output of ``alog.info`` :
 
 In the output of hundreds of lines, it helps (a lot).
 
-What if you have used ``print`` a log? That's as easy:
+What if you have used ``print`` a lot? It's as easy as:
 
 .. code-block:: python
 
@@ -149,4 +149,4 @@ What if you have used ``print`` a log? That's as easy:
 
   print = alog.info
 
-  ... # A lot of print code no needed to change
+  ... # A lot of print code that does not need to change
